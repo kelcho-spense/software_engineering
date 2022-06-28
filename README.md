@@ -1,4 +1,4 @@
-# Holberton School System Engineering & DevOps Track
+# System Engineering & DevOps Track
 
 ## Description
 At Holberton School, we learn by doing. We have projects everyday that we have to push on GitHub in order for an automatic review to be done.
@@ -35,8 +35,6 @@ Directories | Description
 
 ## Author
 
-Laura Roudge - Cohort 8
+kelchospense
 
-email: laura.derohan@gmail.com
 
-Twitter: https://twitter.com/LRoudge
